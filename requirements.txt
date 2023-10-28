@@ -1,1 +1,8 @@
-torch==2.0.1
+razdel
+transformers[torch]
+corus razdel
+torch
+datasets
+torchvision torchaudio
+transformers
+tqdm
