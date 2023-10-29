@@ -1,8 +1,9 @@
 razdel
 transformers[torch]
 corus razdel
-torch
+torch==2.0.0
 datasets
 torchvision torchaudio
 transformers
 tqdm
+numba
